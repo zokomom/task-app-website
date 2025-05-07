@@ -12,11 +12,11 @@ This is a responsive and modern landing page built using HTML, CSS, and SCSS. It
 [Click here to view the live site](https://zokomom.github.io/task-app/index.html)
 
 ## 📁 Project Structure
-├── index.html # Main HTML file
-├── main.css # Compiled CSS file
-├── main.scss # SCSS source file
-├── main.css.map # Source map for debugging
-├── images/ # Folder for images like bullets and icons
+* ├── index.html # Main HTML file
+* ├── main.css # Compiled CSS file
+* ├── main.scss # SCSS source file
+* ├── main.css.map # Source map for debugging
+* ├── images/ # Folder for images like bullets and icons
 
 # 🛠️ Technologies Used
 * HTML5
