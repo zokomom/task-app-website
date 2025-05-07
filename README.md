@@ -9,7 +9,7 @@ This is a responsive and modern landing page built using HTML, CSS, and SCSS. It
 - Responsive navigation
 
 ## 🌐 Live Demo
-[Click here to view the live site](https://zokomom.github.io/task-app/index.html)
+[Click here to view the live site](https://zokomom.github.io/task-app-website/index.html)
 
 ## 📁 Project Structure
 * ├── index.html # Main HTML file
